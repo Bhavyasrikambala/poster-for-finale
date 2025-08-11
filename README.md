@@ -3,7 +3,7 @@
 - Bhavya-color theme &layout
 - Harini-content writing
 - Yamuna-image editing
-- Hemalatha-github actions &development
+- Hemalatha-github actions &deployment
 
 ## Poster Tool Used
 - HTML, CSS (created locally and uploaded to GitHub)
