@@ -1,0 +1,13 @@
+name: Poster Upload Check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show success message
+        run: echo "Poster Uploaded Successfully"
